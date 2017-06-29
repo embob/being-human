@@ -1,13 +1,17 @@
 # Being Human recommended resources
 
-## Self-care and supporting others – talk given on 01.07.17
-
 ### Books
 - [Difficult Conversations: How to Discuss What Matters Most](http://www.goodreads.com/book/show/774088.Difficult_Conversations)-
 - [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
 - [What to do when you’re new](http://www.goodreads.com/book/show/25645133-what-to-do-when-you-re-new)
 
 ^^ too lazy for books - all of these are available on the [Blinkist app](https://www.blinkist.com/) (strongly recommend!).
-### Blogposts
+
+### Blog posts
+- [The Power of Saying ‘No’](http://www.huffingtonpost.com/jennifer-rollin/the-power-of-saying-no_b_10285096.html) 
 
 ### Talks 
+- [Impostor Syndrome and Individual Competence - DrupalCon Dublin](http://bit.ly/imposter-syndrome-dublin)
+- [The Imposter Monologues - DrupalCon Dublin](http://bit.ly/monologues-dublin)
+- [The Imposter Monologues, part II - DrupalCon Baltimore](http://bit.ly/monologies-baltimore)
+- [Brené Brown on Empathy](https://www.youtube.com/watch?v=1Evwgu369Jw)
