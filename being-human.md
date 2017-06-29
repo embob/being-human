@@ -1,9 +1,9 @@
 # Being Human recommended resources
 
 ### Books
-- [Difficult Conversations: How to Discuss What Matters Most](http://www.goodreads.com/book/show/774088.Difficult_Conversations)-
-- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
-- [What to do when you’re new](http://www.goodreads.com/book/show/25645133-what-to-do-when-you-re-new)
+- [Difficult Conversations: How to Discuss What Matters Most -  Douglas Stone, Bruce Patton, Sheila Heen](http://www.goodreads.com/book/show/774088.Difficult_Conversations)-
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well - Douglas Stone, Sheila Heen](http://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
+- [What to do when you’re new -  Keith Rollag](http://www.goodreads.com/book/show/25645133-what-to-do-when-you-re-new)
 
 ^^ too lazy for books - all of these are available on the [Blinkist app](https://www.blinkist.com/) (strongly recommend!).
 
